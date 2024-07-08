@@ -1,0 +1,52 @@
+{
+    "os": "Windows-10-10.0.22631-SP0",
+    "python": "3.11.9",
+    "heartbeatAt": "2024-07-08T21:57:41.911246",
+    "startedAt": "2024-07-08T21:57:34.794279",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/Quessian-Phaedrus-Sternabite/Salamander-Classification.git",
+        "commit": "a98111aa2e52250cfa2d0037b8ea9c07573d69a0"
+    },
+    "email": "56981027+Quessian-Phaedrus-Sternabite@users.noreply.github.com",
+    "root": "D:/Gov school Code/Salamander Classification",
+    "host": "DESK-KQDO1A9F",
+    "username": "kelle",
+    "executable": "C:\\Users\\kelle\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\python.exe",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 2496.0,
+        "min": 0.0,
+        "max": 2496.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2496.0,
+            "min": 0.0,
+            "max": 2496.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 1862.95703125,
+            "used": 382.8555908203125
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 3070",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3070",
+            "memory_total": 8589934592
+        }
+    ],
+    "memory": {
+        "total": 31.85854721069336
+    }
+}

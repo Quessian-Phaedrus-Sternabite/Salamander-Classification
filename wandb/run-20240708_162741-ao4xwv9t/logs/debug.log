@@ -38,3 +38,25 @@ config: {'layer_1': 512, 'activation_1': 'relu', 'dropout': 0.34807775977752037,
 2024-07-08 16:27:46,696 INFO    MainThread:33920 [wandb_run.py:_redirect():2300] Wrapping output streams.
 2024-07-08 16:27:46,696 INFO    MainThread:33920 [wandb_run.py:_redirect():2325] Redirects installed.
 2024-07-08 16:27:46,697 INFO    MainThread:33920 [wandb_init.py:init():847] run started, returning control to user process
+2024-07-08 16:57:35,375 INFO    MainThread:33920 [wandb_setup.py:_flush():76] Current SDK version is 0.17.4
+2024-07-08 16:57:35,375 INFO    MainThread:33920 [wandb_setup.py:_flush():76] Configure stats pid to 33920
+2024-07-08 16:57:35,375 INFO    MainThread:33920 [wandb_setup.py:_flush():76] Loading settings from C:\Users\kelle\.config\wandb\settings
+2024-07-08 16:57:35,376 INFO    MainThread:33920 [wandb_setup.py:_flush():76] Loading settings from d:\Gov school Code\Salamander Classification\wandb\settings
+2024-07-08 16:57:35,376 INFO    MainThread:33920 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2024-07-08 16:57:35,376 INFO    MainThread:33920 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-07-08 16:57:35,376 INFO    MainThread:33920 [wandb_setup.py:_flush():76] Applying login settings: {}
+2024-07-08 16:57:35,376 INFO    MainThread:33920 [wandb_setup.py:_flush():76] Applying login settings: {}
+2024-07-08 16:57:35,376 INFO    MainThread:33920 [wandb_init.py:_log_setup():529] Logging user logs to d:\Gov school Code\Salamander Classification\wandb\run-20240708_165734-2z6cl323\logs\debug.log
+2024-07-08 16:57:35,376 INFO    MainThread:33920 [wandb_init.py:_log_setup():530] Logging internal logs to d:\Gov school Code\Salamander Classification\wandb\run-20240708_165734-2z6cl323\logs\debug-internal.log
+2024-07-08 16:57:35,376 INFO    MainThread:33920 [wandb_init.py:_jupyter_setup():475] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x0000022A4855AFD0>
+2024-07-08 16:57:35,377 INFO    MainThread:33920 [wandb_init.py:init():569] calling init triggers
+2024-07-08 16:57:35,377 INFO    MainThread:33920 [wandb_init.py:init():576] wandb.init called with sweep_config: {}
+config: {}
+2024-07-08 16:57:35,377 INFO    MainThread:33920 [wandb_init.py:init():594] re-initializing run, found existing run on stack: ao4xwv9t
+2024-07-08 16:57:35,378 INFO    MainThread:33920 [wandb_run.py:_finish():2109] finishing run kelley-coop/Salamander Classification/ao4xwv9t
+2024-07-08 16:57:35,378 INFO    MainThread:33920 [wandb_run.py:_atexit_cleanup():2349] got exitcode: 0
+2024-07-08 16:57:35,379 INFO    MainThread:33920 [wandb_run.py:_restore():2332] restore
+2024-07-08 16:57:35,379 INFO    MainThread:33920 [wandb_run.py:_restore():2338] restore done
+2024-07-08 16:57:40,501 INFO    MainThread:33920 [wandb_run.py:_footer_history_summary_info():3991] rendering history
+2024-07-08 16:57:40,501 INFO    MainThread:33920 [wandb_run.py:_footer_history_summary_info():4023] rendering summary
+2024-07-08 16:57:40,515 INFO    MainThread:33920 [wandb_run.py:_footer_sync_info():3950] logging synced files
