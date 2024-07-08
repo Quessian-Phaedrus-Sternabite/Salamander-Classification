@@ -1,0 +1,44 @@
+Downloading data from https://storage.googleapis.com/tensorflow/tf-keras-datasets/mnist.npz
+11490434/11490434 [==============================] - 1s 0us/step
+Epoch 1/8
+
+42/47 [=========================>....] - ETA: 0s - loss: 2.1810 - accuracy: 0.2216INFO:tensorflow:Assets written to: models\assets
+INFO:tensorflow:Assets written to: models\assets
+wandb: Adding directory to artifact (.\models)... Done. 0.1s
+47/47 [==============================] - 4s 67ms/step - loss: 2.1596 - accuracy: 0.2339 - val_loss: 1.8720 - val_accuracy: 0.5700
+Epoch 2/8
+41/47 [=========================>....] - ETA: 0s - loss: 1.7801 - accuracy: 0.4704INFO:tensorflow:Assets written to: models\assets
+INFO:tensorflow:Assets written to: models\assets
+wandb: Adding directory to artifact (.\models)... Done. 0.0s
+47/47 [==============================] - 2s 50ms/step - loss: 1.7621 - accuracy: 0.4803 - val_loss: 1.5355 - val_accuracy: 0.7000
+Epoch 3/8
+46/47 [============================>.] - ETA: 0s - loss: 1.4817 - accuracy: 0.6072INFO:tensorflow:Assets written to: models\assets
+INFO:tensorflow:Assets written to: models\assets
+wandb: Adding directory to artifact (.\models)... Done. 0.1s
+47/47 [==============================] - 3s 65ms/step - loss: 1.4793 - accuracy: 0.6082 - val_loss: 1.2855 - val_accuracy: 0.7600
+Epoch 4/8
+41/47 [=========================>....] - ETA: 0s - loss: 1.2756 - accuracy: 0.6730INFO:tensorflow:Assets written to: models\assets
+INFO:tensorflow:Assets written to: models\assets
+wandb: Adding directory to artifact (.\models)... Done. 0.0s
+47/47 [==============================] - 3s 55ms/step - loss: 1.2688 - accuracy: 0.6743 - val_loss: 1.1040 - val_accuracy: 0.7960
+Epoch 5/8
+42/47 [=========================>....] - ETA: 0s - loss: 1.1227 - accuracy: 0.7123INFO:tensorflow:Assets written to: models\assets
+INFO:tensorflow:Assets written to: models\assets
+wandb: Adding directory to artifact (.\models)... Done. 0.1s
+47/47 [==============================] - 3s 61ms/step - loss: 1.1179 - accuracy: 0.7139 - val_loss: 0.9716 - val_accuracy: 0.8000
+Epoch 6/8
+43/47 [==========================>...] - ETA: 0s - loss: 1.0107 - accuracy: 0.7350INFO:tensorflow:Assets written to: models\assets
+INFO:tensorflow:Assets written to: models\assets
+wandb: Adding directory to artifact (.\models)... Done. 0.0s
+47/47 [==============================] - 3s 55ms/step - loss: 1.0062 - accuracy: 0.7368 - val_loss: 0.8727 - val_accuracy: 0.8140
+Epoch 7/8
+46/47 [============================>.] - ETA: 0s - loss: 0.9235 - accuracy: 0.7571INFO:tensorflow:Assets written to: models\assets
+INFO:tensorflow:Assets written to: models\assets
+wandb: Adding directory to artifact (.\models)... Done. 0.0s
+47/47 [==============================] - 2s 54ms/step - loss: 0.9226 - accuracy: 0.7571 - val_loss: 0.7983 - val_accuracy: 0.8260
+Epoch 8/8
+ 8/47 [====>.........................] - ETA: 0s - loss: 0.9061 - accuracy: 0.7568
+INFO:tensorflow:Assets written to: models\assets
+
+40/47 [========================>.....] - ETA: 0s - loss: 0.8531 - accuracy: 0.7786INFO:tensorflow:Assets written to: models\assets
+47/47 [==============================] - 3s 55ms/step - loss: 0.8474 - accuracy: 0.7786 - val_loss: 0.7403 - val_accuracy: 0.8260
